@@ -2,6 +2,7 @@
 
 A Linux command line utility to control usb mail notifiers identified as:
 
+    $ sudo sudo apt-get install usbutils
     $ lsusb
     Bus 001 Device 010: ID 1294:1320 RISO KAGAKU CORP.
 
