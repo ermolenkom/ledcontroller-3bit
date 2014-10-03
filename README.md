@@ -22,6 +22,7 @@ For example the script `mled-cputemp` will make it respond to your CPU's tempera
 ### Install permanently: ###
 
     $ sudo install -m root -g root -m 755 ledcontroller /usr/bin/ledcontroller
+    $ sudo chmod a+s  /usr/bin/ledcontroller
 
 ### Uninstall: ###
 
